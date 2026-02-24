@@ -6,4 +6,4 @@ Collection Framework (ArrayList) The system allows you to: Add employees Remove 
 
 Employee Types: 🔹 Full-Time Employee Has fixed monthly salary. Salary = Monthly Salary 🔹 Part-Time Employee Paid based on hours worked. Salary = hoursWorked × hourlyRate
 
-Author Rutuja Borse Java Developer | Full Stack Learner
+Author Priti Misal Java Developer | Full Stack Learner
